@@ -1,0 +1,5 @@
+$ chmod a+x d2j_invoke.sh
+$ chmod a+x d2j-dex2jar.sh
+$ apktool
+$ apktool d test.apk
+$ apktool d -s -f test.apk
